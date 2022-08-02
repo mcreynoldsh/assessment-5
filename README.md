@@ -1,6 +1,6 @@
 # Paw Platoon - Pet Care Application
 
-## The Proplem
+## The Problem
 
 As a military member I have noticed that Apps like Rover and Care do not cater to the military community, especially those of us who live on-base where a valid DoD ID is required to enter.
 Military members are often on 12hr shifts, taking extended vacations to visit home, or are being deployed for months at a time and we need an app to connect us with pet care providers in the area who have access to our base. This is the goal of Paw Platoon.
